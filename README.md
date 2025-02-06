@@ -16,6 +16,9 @@ some also related to assets, firebase, etc…
 
 # 1. Life Cycle & Routes
 - Why Flutter? over other platforms?
+
+  flutter is frame work under the hood it use the c++ impler rendering engine and the dart and flutter which compile into native biniry for each platform this enables 60 fps speed , its widget and declarive UI and hotreold feature make development speed.
+    
 - What is a Widget in Flutter? Why Flutter doesn’t have other files like XML, styles, etc…?
 - Difference between a StatelessWidget and a StatefulWidget in Flutter?
 - Explain the Stateful Widget Lifecycle?
